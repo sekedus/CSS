@@ -52,7 +52,8 @@
 }
 
 @media only screen and (max-width: 480px) {
-#fw-feed-item-image-module{width:100%;float:none;}
+#fw-feed-items .fw-feed-item-image-module{width:100%;float:none;}
 #fw-feed-items .fw-feed-item-image img{max-height:193px;}
+#fw-feed-items .fw-feed-item-content-module{margin:10px;}
 }
 
