@@ -33,8 +33,8 @@
 	
 	/**this line added by Divya**/
     #fw-feed-items .fw-feed-item-image{margin:0; padding:0;overflow:hidden;background-image:none !important;background-size:initial !important;background-position:initial !important;background-repeat:initial !important;}
-    #fw-feed-items .fw-feed-item-image img{width:100%;height:auto;display:inline-block !important;}
-    #fw-feed-items .fw-feed-item-content-module{margin:10px 0 0;padding:0;overflow:hidden;}
+    #fw-feed-items .fw-feed-item-image img{width:100%;max-height:173px;display:inline-block !important;}
+    #fw-feed-items .fw-feed-item-content-module{margin:10px 0;padding:0;overflow:hidden;}
     #fw-feed-items .fw-feed-item-title{margin:0 2px 0 0;padding:0 2px 0 0;color:#2e7ec8;line-height:1.5;font-size:16px;overflow:hidden;display:block;}
     #fw-feed-items .fw-feed-item-description{margin:0 2px 0 0;padding:0 2px 0 0;color:#505659;word-wrap:break-word;line-height:1.5;font-size:12px;overflow: hidden;display: block;}
     #fw-feed-items .fw-feed-item-date{margin:5px 0 0 0;padding:0;font-size:12px;;color:#505659;overflow:hidden;text-overflow:ellipsis;display:block;}/***非表示の場合はdisplay:none***/
