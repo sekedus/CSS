@@ -43,7 +43,7 @@
 
 @media only screen and (max-width: 960px) {
 #fw-feed-items .fw-feed-item-description{max-height:62px;}
-#fw-feed-items .fw-feed-item-description:after{content:"...";}
+#fw-feed-items .fw-feed-item-content-module:after{content:"...";}
 }
 
 @media only screen and (max-width: 640px) {
@@ -52,5 +52,7 @@
 }
 
 @media only screen and (max-width: 480px) {
+#fw-feed-item-image-module{width:100%;float:none;}
+#fw-feed-items .fw-feed-item-image img{max-height:193px;}
 }
 
